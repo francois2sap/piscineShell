@@ -1,0 +1,2 @@
+ls php
+ls ?e*
